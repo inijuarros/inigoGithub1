@@ -4,3 +4,4 @@ Vancouver
 Toronto
 Calgary
 Montreal
+Edmonton
