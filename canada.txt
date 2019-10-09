@@ -1,5 +1,4 @@
 #ciudades canada
-Calgary
-Montral
-Edmonton
-Quebec
+Ottawa
+Vancouver
+Toronto
